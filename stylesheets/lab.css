@@ -13,3 +13,8 @@
   padding-top: 30px;
   border-top: solid 1px #fff;
 }
+
+.headline {
+  text-transform: uppercase; 
+  color: lightblue;
+}

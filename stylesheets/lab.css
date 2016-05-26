@@ -3,3 +3,8 @@
   width: 940px;
   margin: 0 auto;
 }
+
+#sidebarupper {
+  float: left;
+  width: 690px;
+}

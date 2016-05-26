@@ -420,6 +420,11 @@ table {
   border-spacing: 0;
   border-collapse: collapse;
 }
+.inner {
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
+}
 
 td,
 th {
